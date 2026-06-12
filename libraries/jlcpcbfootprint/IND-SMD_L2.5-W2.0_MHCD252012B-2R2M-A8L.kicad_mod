@@ -1,0 +1,155 @@
+(footprint "IND-SMD_L2.5-W2.0_MHCD252012B-2R2M-A8L"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "IND-SMD_L2.5-W2.0_MHCD252012B-2R2M-A8L footprint")
+	(tags "IND-SMD_L2.5-W2.0_MHCD252012B-2R2M-A8L footprint C703141")
+	(property "Reference" "REF**"
+		(at 0.023203 -3.32888 0)
+		(layer "F.SilkS")
+		(uuid "e66f9ee4-74e4-4463-b859-53388e02eb21")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND-SMD_L2.5-W2.0_MHCD252012B-2R2M-A8L"
+		(at 0.023203 3.284023 0)
+		(layer "F.Fab")
+		(uuid "d1e1a22b-045f-4d0c-800d-47f2cc03ae07")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d77cf41d-5d31-4bb4-a8c4-fc7d343e467c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5592268-e9f5-4c8c-b85f-655a90012fcf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.144907 1.284023)
+		(end 1.188113 1.284023)
+		(stroke
+			(width 0.151994)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a50b6cd7-8612-43ad-8644-5921b1b16b87")
+	)
+	(fp_line
+		(start -1.117551 -1.32888)
+		(end 1.186233 -1.32888)
+		(stroke
+			(width 0.151994)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "93a8192f-f565-41c1-b438-2b767e923d4d")
+	)
+	(fp_line
+		(start 1.186233 -1.32888)
+		(end 1.191313 -1.3238)
+		(stroke
+			(width 0.151994)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f6481b0a-0627-467a-9df6-a3a8f50c693d")
+	)
+	(fp_circle
+		(center 1.249936 -1)
+		(end 1.279909 -1)
+		(stroke
+			(width 0.059995)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "347d40e0-bc0d-44cc-8216-f29c7d43be62")
+	)
+	(fp_poly
+		(pts
+			(xy -1.250013 -1) (xy -0.650013 -1) (xy -0.650013 1) (xy -1.250013 1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "f3f5ca3f-104e-45a1-91b9-53afdb8abeca")
+	)
+	(fp_poly
+		(pts
+			(xy 0.649962 -1) (xy 1.249962 -1) (xy 1.249962 1) (xy 0.649962 1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "ade072a9-cd39-4a78-bc04-df44b4e53b5a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.023203 -0.022428 0)
+		(layer "F.Fab")
+		(uuid "d2b0a5c7-7709-4aa7-80f5-ce9a1ba8bc32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.912878 0)
+		(size 1 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1d3a61cb-3253-4b9f-b646-a033e75670ec")
+	)
+	(pad "2" smd rect
+		(at -0.912878 0)
+		(size 1 2.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "435aa3c3-cd60-487c-8347-5e83d838338c")
+	)
+	(embedded_fonts no)
+	(model "packages3d/IND-SMD_L2.5-W2.0_MHCD252012B-2R2M-A8L.step"
+		(offset
+			(xyz 0 0 1.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

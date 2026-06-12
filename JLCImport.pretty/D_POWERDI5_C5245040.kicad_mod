@@ -1,0 +1,140 @@
+(footprint "D_POWERDI5_C5245040"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "-55℃~+150℃ 180uA@60V 20A 320A 570mV@20A 60V PowerDI-5 Super Barrier Rectifiers (SBR) ROHS")
+	(tags "C5245040 Diodes Incorporated POWERDI-5_L5.4-W4.0-LS6.5-RD SBRT20M60SP5-13")
+	(property "Reference" "REF**"
+		(at 0 -3.45 0)
+		(layer "F.SilkS")
+		(uuid "7ca83019-3ba8-450e-912b-b1416864e06b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 3.45 0)
+		(layer "F.Fab")
+		(uuid "fe416ddd-2ef7-4dab-bce7-d3e2973f2c4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2308101555_Diodes-Incorporated-SBRT20M60SP5-13_C5245040.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f40adeb4-feb7-4ce9-bf49-4f20c82d024c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-55℃~+150℃ 180uA@60V 20A 320A 570mV@20A 60V PowerDI-5 Super Barrier Rectifiers (SBR) ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c1ddf1c1-47c8-462f-ab5d-2634b8a0d3ec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C5245040"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a36e74d5-54eb-400a-9d77-668a8773929e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.7 2.100025)
+		(end 1.800025 2.100025)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "85b8d91b-655a-423a-9894-9988cea89a12")
+	)
+	(fp_line
+		(start 1.800025 -2.099924)
+		(end -3.7 -2.099924)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8d868f9-fbc8-4b0a-b761-92c7c34fe154")
+	)
+	(fp_circle
+		(center 2.549911 2.249936)
+		(end 2.667005 2.249936)
+		(stroke
+			(width 0.254001)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "dc197b2f-e29a-48a4-ae64-da5d13e79d9f")
+	)
+	(fp_circle
+		(center 2.921006 0.889002)
+		(end 3.170942 0.889002)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "e5c162c3-0123-423f-b158-177ec0dd29ad")
+	)
+	(pad "1" smd rect
+		(at 2.032004 0.91999 90)
+		(size 1.400051 1.400051)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "52bcb53f-76ed-4168-911e-e6d3e7c68469")
+	)
+	(pad "2" smd rect
+		(at 2.032004 -0.91999 90)
+		(size 1.400051 1.400051)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4c0a890f-68cd-4286-b384-ee5ef449b33e")
+	)
+	(pad "3" smd rect
+		(at -2.032004 0 90)
+		(size 3.4 4.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cc72f46f-f0d7-4612-b280-bd5b67f8db3c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/SBRT20M60SP5-13.wrl"
+		(offset
+			(xyz -1 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "JLCImport") (type "KiCad") (uri "${KIPRJMOD}/JLCImport.pretty") (options "") (descr ""))
+	(lib (name "MPS") (type "KiCad") (uri "${KIPRJMOD}/libraries/MPS/footprints.pretty") (options "") (descr ""))
+	(lib (name "jlcpcbfootprint") (type "KiCad") (uri "${KIPRJMOD}/libraries/jlcpcbfootprint") (options "") (descr ""))
+)

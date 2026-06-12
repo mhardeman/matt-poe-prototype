@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "jlcpcblib") (type "KiCad") (uri "${KIPRJMOD}/libraries/symbol/jlcpcblib.kicad_sym") (options "") (descr ""))
+	(lib (name "JLCImport") (type "KiCad") (uri "${KIPRJMOD}/JLCImport.kicad_sym") (options "") (descr ""))
+	(lib (name "MPS") (type "KiCad") (uri "${KIPRJMOD}/libraries/MPS") (options "") (descr ""))
+)
