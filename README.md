@@ -15,5 +15,6 @@ In my testing up to this point, this design easily provides at least 10W of usab
 
 [Bill of Materials](matt-poe-prototype.csv)
 
-![Top view](visuals/matt-poe-protype-topview.png)
+![Top view](visuals/matt-poe-prototype-topview.png)
 
+[More visuals](visuals/)
