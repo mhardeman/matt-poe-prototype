@@ -7,4 +7,4 @@ This is a prototype.  I'm happy to accept issues with questions or suggestions f
 
 ![3D view](visuals/pcb-3d-f.png)
 
-![Schematic](visuals/schematic.pdf)
+![Schematic](visuals/schematic.png)
