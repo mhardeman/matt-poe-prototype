@@ -12,3 +12,6 @@ In my testing up to this point, this design easily provides at least 10W of usab
 ![3D view](visuals/pcb-3d-f.png)
 
 ![Schematic](visuals/schematic.png)
+
+[Bill of Materials](matt-poe-prototype.csv)
+
