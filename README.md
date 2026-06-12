@@ -6,3 +6,5 @@ It provides for output isolation between the PoE delivery and the output power r
 This is a prototype.  I'm happy to accept issues with questions or suggestions for improvement, and would very happily review any pull requests that come in.
 
 ![3D view](visuals/pcb-3d-f.png)
+
+![Schematic](visuals/schematic.pdf)
