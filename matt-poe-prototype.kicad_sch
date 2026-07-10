@@ -397,164 +397,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLCImport:0603WAF1503T5E"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at 0 3.016 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "150kΩ"
-				(at 0 -3.016 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "JLCImport:R_0603_C22807"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1503T5E_C22807.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "-55℃~+155℃ 100mW 150kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC" "C22807"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer Part" "0603WAF1503T5E"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "0603WAF1503T5E C22807 R0603 UNI-ROYAL(Uniroyal Elec)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "0603WAF1503T5E_0_1"
-				(rectangle
-					(start -2.54 1.016)
-					(end 2.54 -1.016)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "JLCImport:0603WAF2403T5E"
 			(pin_names
 				(offset 0)
@@ -1051,6 +893,164 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "JLCImport:0603WAF3303T5E"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 0 3.016 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "330kΩ"
+				(at 0 -3.016 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCImport:0603WAF3303T5E"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3303T5E_C23137.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "-55℃~+155℃ 100mW 330kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C23137"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer Part" "0603WAF3303T5E"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "0603WAF3303T5E C23137 R0603 UNI-ROYAL(Uniroyal Elec)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "0603WAF3303T5E_0_1"
+				(rectangle
+					(start -2.54 1.016)
+					(end 2.54 -1.016)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "JLCImport:0603WAF412JT5E"
 			(pin_names
 				(offset 0)
@@ -1189,175 +1189,6 @@
 					)
 				)
 				(pin unspecified line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "JLCImport:0603WAF7501T5E"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at 0 3.016 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "7.5kΩ"
-				(at 0 -3.016 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "JLCImport:R_0603_C23234"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF7501T5E_C23234.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "-55℃~+155℃ 100mW 7.5kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC" "C23234"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer Part" "0603WAF7501T5E"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "560112116080"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "0603WAF7501T5E C23234 R0603 UNI-ROYAL(Uniroyal Elec)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "0603WAF7501T5E_0_1"
-				(rectangle
-					(start -2.54 1.016)
-					(end 2.54 -1.016)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
 					(at 5.08 0 180)
 					(length 2.54)
 					(name "2"
@@ -2089,201 +1920,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "JLCImport:CC0603KRX7R0BB471"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "C"
-				(at 0 2 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "470pF 100V"
-				(at 0 -2 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "JLCImport:C_0603_C107062"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-CC0603KRX7R0BB471_C107062.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "100V 470pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "LCSC" "C107062"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "YAGEO"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer Part" "CC0603KRX7R0BB471"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "C0603 C107062 CC0603KRX7R0BB471 YAGEO"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CC0603KRX7R0BB471_0_1"
-				(polyline
-					(pts
-						(xy -1.27 0) (xy -0.508 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.508 2.032) (xy -0.508 -2.032)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.508 2.032) (xy 0.508 -2.032)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.508 0) (xy 1.27 0)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4055,6 +3691,164 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "JLCImport:FRC0603J912_TS"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 0 3.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "9.1kΩ"
+				(at 0 -3.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCImport:FRC0603J912_TS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308241947_FOJAN-FRC0603J912-TS_C2907210.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "-55℃~+155℃ 100mW 75V 9.1kΩ Thick Film Resistor ±100ppm/℃ ±5% 0603 Chip Resistor - Surface Mount ROHS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C2907210"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "FOJAN"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer Part" "FRC0603J912 TS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "C2907210 FOJAN FRC0603J912 TS R0603"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "FRC0603J912_TS_0_1"
+				(rectangle
+					(start -2.54 1.27)
+					(end 2.54 -1.27)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "JLCImport:FTC322510S2R2MBCA"
 			(pin_names
 				(offset 0)
@@ -4232,6 +4026,201 @@
 				(pin unspecified line
 					(at 5.08 0 180)
 					(length 1.016)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "JLCImport:GCM1885C2A221JA16D"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 7.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "220pF 100V"
+				(at 0 -7.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "JLCImport:GCM1885C2A221JA16D"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Murata-Electronics-GCM1885C2A221JA16D_C388907.pdf"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "100V 220pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C388907"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Murata Electronics"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer Part" "GCM1885C2A221JA16D"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "C0603 C388907 GCM1885C2A221JA16D Murata Electronics"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "GCM1885C2A221JA16D_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.508) (xy 2.032 0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.508) (xy 0 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 -0.508) (xy -2.032 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 0 5.08 270)
+					(length 2.54)
 					(name "2"
 						(effects
 							(font
@@ -5011,7 +5000,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "JLCImport:SBRT20M60SP5-13"
+		(symbol "JLCImport:SBRT20U60SP5-7"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -5031,7 +5020,7 @@
 					)
 				)
 			)
-			(property "Value" "SBRT20M60SP5-13"
+			(property "Value" "SBRT20U60SP5-7"
 				(at 0 -4.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5041,7 +5030,7 @@
 					)
 				)
 			)
-			(property "Footprint" "JLCImport:D_POWERDI5_C5245040"
+			(property "Footprint" "JLCImport:SBRT20U60SP5-7"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5052,7 +5041,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2308101555_Diodes-Incorporated-SBRT20M60SP5-13_C5245040.pdf"
+			(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806080107_Diodes-Incorporated-SBRT20U60SP5-7_C156299.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5063,7 +5052,7 @@
 					)
 				)
 			)
-			(property "Description" "-55℃~+150℃ 180uA@60V 20A 320A 570mV@20A 60V PowerDI-5 Super Barrier Rectifiers (SBR) ROHS"
+			(property "Description" "20A 320A 400uA 480mV@20A 60V PowerDI-5 Super Barrier Rectifiers (SBR) ROHS -55℃~+150℃"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5074,7 +5063,7 @@
 					)
 				)
 			)
-			(property "LCSC" "C5245040"
+			(property "LCSC" "C156299"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5096,7 +5085,7 @@
 					)
 				)
 			)
-			(property "Manufacturer Part" "SBRT20M60SP5-13"
+			(property "Manufacturer Part" "SBRT20U60SP5-7"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5107,7 +5096,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "C5245040 Diodes Incorporated POWERDI-5_L5.4-W4.0-LS6.5-RD SBRT20M60SP5-13"
+			(property "ki_keywords" "C156299 Diodes Incorporated POWERDI-5_L5.4-W4.0-LS6.5-RD SBRT20U60SP5-7"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5118,10 +5107,10 @@
 					)
 				)
 			)
-			(symbol "SBRT20M60SP5-13_0_1"
+			(symbol "SBRT20U60SP5-7_0_1"
 				(polyline
 					(pts
-						(xy -3.81 1.778) (xy -3.81 -1.778)
+						(xy -5.08 0) (xy 2.54 0)
 					)
 					(stroke
 						(width 0.254)
@@ -5133,19 +5122,7 @@
 				)
 				(polyline
 					(pts
-						(xy -1.27 1.524) (xy -3.81 0) (xy -1.27 -1.778) (xy -1.27 1.524)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
+						(xy -2.54 -1.524) (xy -2.54 1.524)
 					)
 					(stroke
 						(width 0.254)
@@ -5157,7 +5134,19 @@
 				)
 				(polyline
 					(pts
-						(xy 0 -2.54) (xy 0 0) (xy -2.54 0)
+						(xy 0 1.524) (xy -2.54 0) (xy 0 -1.524) (xy 0 1.524)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 -2.54) (xy 2.54 -2.54) (xy 2.54 2.54) (xy 5.08 2.54)
 					)
 					(stroke
 						(width 0.254)
@@ -5168,7 +5157,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 2.54 -2.54 180)
+					(at 7.62 -2.54 180)
 					(length 2.54)
 					(name "1"
 						(effects
@@ -5186,7 +5175,7 @@
 					)
 				)
 				(pin unspecified line
-					(at 2.54 2.54 180)
+					(at 7.62 2.54 180)
 					(length 2.54)
 					(name "2"
 						(effects
@@ -5205,7 +5194,7 @@
 				)
 				(pin unspecified line
 					(at -7.62 0 0)
-					(length 3.81)
+					(length 2.54)
 					(name "3"
 						(effects
 							(font
@@ -5640,7 +5629,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "MPS:MP8017GL-Z"
+		(symbol "MPS:TPE15017"
 			(pin_names
 				(offset 0.254)
 			)
@@ -5659,7 +5648,7 @@
 					)
 				)
 			)
-			(property "Value" "MP8017GL-Z"
+			(property "Value" "TPE15017"
 				(at 22.86 7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5681,7 +5670,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "MP8017GL-Z"
+			(property "Datasheet" "https://static.3peak.com/res/doc/ds/Datasheet_TPE15017_TPE15018.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5693,7 +5682,7 @@
 					)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Integrated PoE Frontend & DC/DC controller with FETs"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5715,7 +5704,7 @@
 					)
 				)
 			)
-			(property "MPN" "MP8017GL-Z"
+			(property "MPN" "TPE15017"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5726,7 +5715,40 @@
 					)
 				)
 			)
-			(property "ki_keywords" "MP8017GL-Z"
+			(property "Manufacturer" "3Peak"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ALTMPN" "MP8017GL-Z"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ALT Manufacturer" "Monolithic Power Systems"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "TPE15017 MP8017GL-Z"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5748,7 +5770,7 @@
 					)
 				)
 			)
-			(symbol "MP8017GL-Z_0_1"
+			(symbol "TPE15017_0_1"
 				(polyline
 					(pts
 						(xy 7.62 5.08) (xy 7.62 -27.94)
@@ -7403,12 +7425,6 @@
 		(uuid "1c74b11b-72b5-4667-97af-a598d0df3f72")
 	)
 	(junction
-		(at 212.09 106.045)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d07a4f0-2914-4ded-9570-f7135a869b50")
-	)
-	(junction
 		(at 43.18 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7427,16 +7443,22 @@
 		(uuid "271c42d0-c716-447e-a442-0ff236d16818")
 	)
 	(junction
-		(at 220.98 100.33)
+		(at 250.19 120.015)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2987ce9f-92f7-411c-b419-45e637babd0c")
+		(uuid "271d8c4e-8ff8-4018-a4aa-fb727e19d3bd")
 	)
 	(junction
 		(at 83.185 186.055)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2cbc4609-6c0d-48e2-8431-fce2082402d9")
+	)
+	(junction
+		(at 227.965 108.585)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2dfa2b92-6d30-4bb0-9c7b-57ecdf7fd4e1")
 	)
 	(junction
 		(at 238.125 120.015)
@@ -7457,12 +7479,6 @@
 		(uuid "39df929e-cba6-4ae7-8fe9-0f645d95a25e")
 	)
 	(junction
-		(at 232.41 108.585)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3ea2f531-2a0f-4759-b71b-66f3287ddea6")
-	)
-	(junction
 		(at 261.62 108.585)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7481,22 +7497,10 @@
 		(uuid "41d73542-d6be-4442-bc3d-5a1401f0ecc8")
 	)
 	(junction
-		(at 210.82 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "45f30a6b-17b2-46d4-a429-6730213c1ee7")
-	)
-	(junction
 		(at 174.625 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46366553-adb2-4f5f-bb19-43ae4d14a8e9")
-	)
-	(junction
-		(at 209.55 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b5659e9-3a16-4638-82a6-253bf7cad75d")
 	)
 	(junction
 		(at 148.59 109.22)
@@ -7523,12 +7527,6 @@
 		(uuid "5bf8aa6f-bc54-4fd5-b036-285e1045d7fd")
 	)
 	(junction
-		(at 249.555 108.585)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5ca89ac3-663d-459c-b9e3-700ee82c9d10")
-	)
-	(junction
 		(at 155.575 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7547,12 +7545,6 @@
 		(uuid "645ccf25-7be3-40f4-af09-4c5f5463979f")
 	)
 	(junction
-		(at 83.185 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6cacd592-cfdb-43e8-b6ad-0f7c1e06be1e")
-	)
-	(junction
 		(at 91.44 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7563,6 +7555,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "766797ad-9e2b-4480-b659-105e3b272818")
+	)
+	(junction
+		(at 250.19 108.585)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e6d5775-75f6-46f5-96e4-8561e477d9aa")
 	)
 	(junction
 		(at 116.205 186.055)
@@ -7605,6 +7603,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95038fab-1e2b-46c4-b090-edfca7672930")
+	)
+	(junction
+		(at 84.455 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a59ed512-83db-4f45-b77f-84c056016d6a")
 	)
 	(junction
 		(at 167.64 91.44)
@@ -7673,12 +7677,6 @@
 		(uuid "ca8770f0-7ea2-41ae-8ad1-fbcacb0551e5")
 	)
 	(junction
-		(at 249.555 120.015)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cf9520dc-c6c9-46a1-8e09-6a9021839cae")
-	)
-	(junction
 		(at 31.115 196.215)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7715,6 +7713,12 @@
 		(uuid "e7b7a6ae-9419-41e5-81b7-62f7bd97a810")
 	)
 	(junction
+		(at 208.28 106.045)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb4a020e-833b-43ca-8f2c-74dde7a856e1")
+	)
+	(junction
 		(at 71.755 169.545)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7725,6 +7729,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5b618c1-93f5-4010-871d-f193f266f556")
+	)
+	(junction
+		(at 208.28 111.125)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f7f40bcb-072b-4350-88dc-d0581a509c36")
 	)
 	(junction
 		(at 242.57 108.585)
@@ -7772,23 +7782,13 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 100.33) (xy 209.55 100.33)
+			(xy 208.28 111.125) (xy 208.28 106.045)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "01cef140-628d-4bd4-9003-cc56cf980a87")
-	)
-	(wire
-		(pts
-			(xy 212.09 106.045) (xy 212.09 111.125)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03025cae-c82c-4201-8a2a-738b118779ae")
+		(uuid "0325fc8b-9767-4507-b2f2-8e8dd4c0bd83")
 	)
 	(wire
 		(pts
@@ -7852,7 +7852,17 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 100.33) (xy 210.82 100.33)
+			(xy 208.28 111.125) (xy 210.185 111.125)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09934208-b7fa-4131-bec9-c8a67b4cbb62")
+	)
+	(wire
+		(pts
+			(xy 208.28 100.33) (xy 210.82 100.33)
 		)
 		(stroke
 			(width 0)
@@ -8002,6 +8012,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 120.015) (xy 260.985 120.015)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2279bd88-e564-4204-a4df-eda7ded1c53d")
+	)
+	(wire
+		(pts
 			(xy 166.37 114.3) (xy 166.37 108.585)
 		)
 		(stroke
@@ -8042,7 +8062,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 100.33) (xy 232.41 108.585)
+			(xy 227.965 106.045) (xy 227.965 108.585)
 		)
 		(stroke
 			(width 0)
@@ -8059,16 +8079,6 @@
 			(type default)
 		)
 		(uuid "2800d952-5afa-41cb-9588-06c5376ba8af")
-	)
-	(wire
-		(pts
-			(xy 210.82 96.52) (xy 210.82 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2866da2c-e5bc-4c9d-8cc9-2b43ff11f9bc")
 	)
 	(wire
 		(pts
@@ -8172,16 +8182,6 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 111.125) (xy 215.265 111.125)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "364b71e2-dff9-46de-8556-15f804386f3e")
-	)
-	(wire
-		(pts
 			(xy 12.7 108.585) (xy 21.59 108.585)
 		)
 		(stroke
@@ -8282,16 +8282,6 @@
 	)
 	(wire
 		(pts
-			(xy 249.555 120.015) (xy 260.985 120.015)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "431b7975-c551-45dc-b10b-127ef688ef8a")
-	)
-	(wire
-		(pts
 			(xy 29.845 43.815) (xy 36.195 43.815)
 		)
 		(stroke
@@ -8302,7 +8292,7 @@
 	)
 	(wire
 		(pts
-			(xy 75.565 140.97) (xy 83.185 140.97)
+			(xy 75.565 140.97) (xy 84.455 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8332,7 +8322,7 @@
 	)
 	(wire
 		(pts
-			(xy 249.555 117.475) (xy 249.555 120.015)
+			(xy 250.19 117.475) (xy 250.19 120.015)
 		)
 		(stroke
 			(width 0)
@@ -8352,7 +8342,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 116.84) (xy 208.28 100.33)
+			(xy 208.28 116.84) (xy 208.28 111.125)
 		)
 		(stroke
 			(width 0)
@@ -8382,13 +8372,13 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 96.52) (xy 220.98 100.33)
+			(xy 227.965 108.585) (xy 233.68 108.585)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "510c231d-cdd7-418b-b90e-a8833db9ac9c")
+		(uuid "50bbd597-dbac-47e6-83ec-31b3f124c8af")
 	)
 	(wire
 		(pts
@@ -8522,16 +8512,6 @@
 	)
 	(wire
 		(pts
-			(xy 249.555 108.585) (xy 261.62 108.585)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "669c41c3-c6bd-4f8c-8cd5-462c5581f89c")
-	)
-	(wire
-		(pts
 			(xy 177.165 78.74) (xy 177.165 81.28)
 		)
 		(stroke
@@ -8539,16 +8519,6 @@
 			(type default)
 		)
 		(uuid "66cb956c-10df-4e3d-8533-3622f602a02a")
-	)
-	(wire
-		(pts
-			(xy 232.41 108.585) (xy 233.68 108.585)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66cfa868-ced9-41f6-b74e-c4937684db03")
 	)
 	(wire
 		(pts
@@ -8579,6 +8549,16 @@
 			(type default)
 		)
 		(uuid "69a0d2fc-646a-46bc-bce2-5f110aad26c7")
+	)
+	(wire
+		(pts
+			(xy 84.455 140.97) (xy 91.44 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c977666-850a-41af-916b-9b44f5e5a6ec")
 	)
 	(wire
 		(pts
@@ -8632,16 +8612,6 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 106.045) (xy 215.265 106.045)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "708c0259-fbf2-4ebe-a877-c2603f1206f6")
-	)
-	(wire
-		(pts
 			(xy 68.58 119.38) (xy 102.87 119.38)
 		)
 		(stroke
@@ -8682,7 +8652,7 @@
 	)
 	(wire
 		(pts
-			(xy 249.555 108.585) (xy 249.555 109.855)
+			(xy 250.19 108.585) (xy 250.19 109.855)
 		)
 		(stroke
 			(width 0)
@@ -8832,16 +8802,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.185 140.97) (xy 91.44 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "848dd161-2593-4243-a7fc-27c86759ef0b")
-	)
-	(wire
-		(pts
 			(xy 86.36 186.055) (xy 95.885 186.055)
 		)
 		(stroke
@@ -8869,16 +8829,6 @@
 			(type default)
 		)
 		(uuid "87382312-dc72-4e3d-b92e-2f9ca93b367c")
-	)
-	(wire
-		(pts
-			(xy 209.55 106.045) (xy 212.09 106.045)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "888d358c-a289-4179-b0b3-066d07115124")
 	)
 	(wire
 		(pts
@@ -8942,16 +8892,6 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 100.33) (xy 209.55 106.045)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "987d04a8-9cce-44ed-9c2e-5f1d19217679")
-	)
-	(wire
-		(pts
 			(xy 68.58 127.635) (xy 68.58 119.38)
 		)
 		(stroke
@@ -9002,7 +8942,17 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 128.905) (xy 83.185 128.905)
+			(xy 222.25 95.885) (xy 227.965 95.885)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c5cc0c1-7b91-4222-a7be-f8b5cf08ba92")
+	)
+	(wire
+		(pts
+			(xy 88.9 128.905) (xy 84.455 128.905)
 		)
 		(stroke
 			(width 0)
@@ -9092,7 +9042,7 @@
 	)
 	(wire
 		(pts
-			(xy 225.425 108.585) (xy 232.41 108.585)
+			(xy 225.425 108.585) (xy 227.965 108.585)
 		)
 		(stroke
 			(width 0)
@@ -9122,6 +9072,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 108.585) (xy 261.62 108.585)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae97c994-545b-4569-be70-76beed66d0f6")
+	)
+	(wire
+		(pts
 			(xy 46.99 177.8) (xy 46.99 186.055)
 		)
 		(stroke
@@ -9139,16 +9099,6 @@
 			(type default)
 		)
 		(uuid "b0b6ee64-b217-4ce9-933f-a16bbbcc1628")
-	)
-	(wire
-		(pts
-			(xy 229.87 100.33) (xy 232.41 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b40461d3-5f77-46d7-8c81-a5b1c4a7339d")
 	)
 	(wire
 		(pts
@@ -9522,6 +9472,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 106.045) (xy 210.185 106.045)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dff1b314-b75b-4f4f-be49-cad182ef057a")
+	)
+	(wire
+		(pts
 			(xy 80.645 111.76) (xy 80.645 114.3)
 		)
 		(stroke
@@ -9562,7 +9522,17 @@
 	)
 	(wire
 		(pts
-			(xy 83.185 136.525) (xy 83.185 140.97)
+			(xy 222.25 100.33) (xy 222.25 95.885)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e35bb2f8-54fe-42a8-8c21-5429b2c02204")
+	)
+	(wire
+		(pts
+			(xy 84.455 136.525) (xy 84.455 140.97)
 		)
 		(stroke
 			(width 0)
@@ -9632,7 +9602,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 120.015) (xy 249.555 120.015)
+			(xy 242.57 120.015) (xy 250.19 120.015)
 		)
 		(stroke
 			(width 0)
@@ -9682,6 +9652,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 106.045) (xy 208.28 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7734a9c-9810-4105-8070-8553ff7ea973")
+	)
+	(wire
+		(pts
 			(xy 48.895 43.815) (xy 53.975 43.815)
 		)
 		(stroke
@@ -9692,7 +9672,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 108.585) (xy 249.555 108.585)
+			(xy 242.57 108.585) (xy 250.19 108.585)
 		)
 		(stroke
 			(width 0)
@@ -10209,7 +10189,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLCImport:SBRT20M60SP5-13")
+		(lib_id "JLCImport:SBRT20U60SP5-7")
 		(at 217.805 108.585 180)
 		(unit 1)
 		(body_style 1)
@@ -10229,8 +10209,8 @@
 				)
 			)
 		)
-		(property "Value" "SBRT20M60SP5-13"
-			(at 218.44 112.395 0)
+		(property "Value" "SBRT20U60SP5-7"
+			(at 219.71 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10239,7 +10219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:D_POWERDI5_C5245040"
+		(property "Footprint" "JLCImport:SBRT20U60SP5-7"
 			(at 217.805 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -10250,7 +10230,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2308101555_Diodes-Incorporated-SBRT20M60SP5-13_C5245040.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_1806080107_Diodes-Incorporated-SBRT20U60SP5-7_C156299.pdf"
 			(at 217.805 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -10261,7 +10241,7 @@
 				)
 			)
 		)
-		(property "Description" "-55℃~+150℃ 180uA@60V 20A 320A 570mV@20A 60V PowerDI-5 Super Barrier Rectifiers (SBR) ROHS"
+		(property "Description" "20A 320A 400uA 480mV@20A 60V PowerDI-5 Super Barrier Rectifiers (SBR) ROHS -55℃~+150℃"
 			(at 217.805 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -10272,7 +10252,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C5245040"
+		(property "LCSC" "C156299"
 			(at 217.805 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -10294,216 +10274,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "SBRT20M60SP5-13"
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut1 (A)" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut2 (A)" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 217.805 108.585 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
+		(property "Manufacturer Part" "SBRT20U60SP5-7"
 			(at 217.805 108.585 0)
 			(hide yes)
 			(show_name no)
@@ -11882,7 +11653,7 @@
 	)
 	(symbol
 		(lib_id "JLCImport:CL10B224KA8NNNC")
-		(at 83.185 132.715 270)
+		(at 84.455 132.715 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11892,7 +11663,7 @@
 		(dnp no)
 		(uuid "1e4f4965-e9aa-4c78-a7ae-8814ef479343")
 		(property "Reference" "C2"
-			(at 83.82 130.81 90)
+			(at 85.09 130.81 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11903,7 +11674,7 @@
 			)
 		)
 		(property "Value" "220nF 25V"
-			(at 83.185 127.635 90)
+			(at 81.28 132.715 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11913,7 +11684,7 @@
 			)
 		)
 		(property "Footprint" "JLCImport:CL10B224KA8NNNC"
-			(at 83.185 132.715 0)
+			(at 84.455 132.715 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11924,7 +11695,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL10B224KA8NNNC_C21120.pdf"
-			(at 83.185 132.715 0)
+			(at 84.455 132.715 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11935,7 +11706,7 @@
 			)
 		)
 		(property "Description" "220nF 25V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 83.185 132.715 0)
+			(at 84.455 132.715 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11946,7 +11717,7 @@
 			)
 		)
 		(property "LCSC" "C21120"
-			(at 83.185 132.715 0)
+			(at 84.455 132.715 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11957,7 +11728,7 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 83.185 132.715 0)
+			(at 84.455 132.715 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11968,7 +11739,7 @@
 			)
 		)
 		(property "Manufacturer Part" "CL10B224KA8NNNC"
-			(at 83.185 132.715 0)
+			(at 84.455 132.715 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11979,216 +11750,7 @@
 			)
 		)
 		(property "MPN" "885012206073"
-			(at 83.185 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut1 (A)" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut2 (A)" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 83.185 132.715 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
-			(at 83.185 132.715 90)
+			(at 84.455 132.715 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12904,8 +12466,8 @@
 		)
 	)
 	(symbol
-		(lib_id "JLCImport:CC0603KRX7R0BB471")
-		(at 226.06 100.33 0)
+		(lib_id "JLCImport:GCM1885C2A221JA16D")
+		(at 227.965 100.965 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12915,7 +12477,7 @@
 		(dnp no)
 		(uuid "2ca6db05-a992-47e4-a0da-9d935c27dc73")
 		(property "Reference" "C13"
-			(at 226.06 97.155 0)
+			(at 230.505 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12924,8 +12486,8 @@
 				)
 			)
 		)
-		(property "Value" "470pF 100V"
-			(at 226.06 103.505 0)
+		(property "Value" "220pF 100V"
+			(at 234.315 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12934,8 +12496,8 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:C_0603_C107062"
-			(at 226.06 100.33 0)
+		(property "Footprint" "JLCImport:GCM1885C2A221JA16D"
+			(at 227.965 100.965 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12945,8 +12507,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_YAGEO-CC0603KRX7R0BB471_C107062.pdf"
-			(at 226.06 100.33 0)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/1912111437_Murata-Electronics-GCM1885C2A221JA16D_C388907.pdf"
+			(at 227.965 100.965 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12956,8 +12518,8 @@
 				)
 			)
 		)
-		(property "Description" "100V 470pF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 226.06 100.33 0)
+		(property "Description" "100V 220pF C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+			(at 227.965 100.965 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12967,8 +12529,8 @@
 				)
 			)
 		)
-		(property "LCSC" "C107062"
-			(at 226.06 100.33 0)
+		(property "LCSC" "C388907"
+			(at 227.965 100.965 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12978,8 +12540,8 @@
 				)
 			)
 		)
-		(property "Manufacturer" "YAGEO"
-			(at 226.06 100.33 0)
+		(property "Manufacturer" "Murata Electronics"
+			(at 227.965 100.965 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12989,217 +12551,8 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CC0603KRX7R0BB471"
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut1 (A)" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut2 (A)" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 226.06 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
-			(at 226.06 100.33 0)
+		(property "Manufacturer Part" "GCM1885C2A221JA16D"
+			(at 227.965 100.965 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16952,327 +16305,6 @@
 		)
 	)
 	(symbol
-		(lib_id "JLCImport:1206W4F100JT5E")
-		(at 215.9 96.52 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4bc71635-b51c-45c9-8610-a3ceb1c19aba")
-		(property "Reference" "R13"
-			(at 215.9 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20Ω"
-			(at 215.9 93.98 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "JLCImport:R_1206_C17903"
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "20Ω ±1% 500mW"
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C859156"
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Yageo"
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "RC1206FR-7W20RL"
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut1 (A)" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut2 (A)" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
-			(at 215.9 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cd37bb0a-0bae-4a08-8d49-aa32c3f1aa57")
-		)
-		(pin "2"
-			(uuid "800d773b-8253-45ee-9f8c-3c0b4d25a344")
-		)
-		(instances
-			(project "matt-poe-prototype"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "R13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GNDPWR")
 		(at 82.55 92.71 0)
 		(unit 1)
@@ -17695,7 +16727,7 @@
 		(dnp no)
 		(uuid "52b5f923-fcdf-4288-bd4a-09e193583eb1")
 		(property "Reference" "C1"
-			(at 89.535 106.68 90)
+			(at 95.25 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17706,7 +16738,7 @@
 			)
 		)
 		(property "Value" "220nF 25V"
-			(at 88.9 109.22 90)
+			(at 91.44 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17783,215 +16815,6 @@
 		)
 		(property "MPN" "885012206073"
 			(at 94.615 104.775 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut1 (A)" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut2 (A)" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 94.615 104.775 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
-			(at 94.615 104.775 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19393,7 +18216,7 @@
 	)
 	(symbol
 		(lib_id "JLCImport:CL21B104KCFNNNE")
-		(at 249.555 113.665 270)
+		(at 250.19 113.665 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19403,7 +18226,7 @@
 		(dnp no)
 		(uuid "6676fa4d-cd0d-4df0-af2a-7091aaee9538")
 		(property "Reference" "C17"
-			(at 249.555 111.76 90)
+			(at 251.46 111.76 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19414,7 +18237,7 @@
 			)
 		)
 		(property "Value" "100nF 100V"
-			(at 246.38 108.585 0)
+			(at 247.015 108.585 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19425,7 +18248,7 @@
 			)
 		)
 		(property "Footprint" "JLCImport:C_0805_C28233"
-			(at 249.555 113.665 0)
+			(at 250.19 113.665 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19436,7 +18259,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2304140030_Samsung-Electro-Mechanics-CL21B104KCFNNNE_C28233.pdf"
-			(at 249.555 113.665 0)
+			(at 250.19 113.665 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19447,7 +18270,7 @@
 			)
 		)
 		(property "Description" "100V 100nF X7R ±10% 0805 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
-			(at 249.555 113.665 0)
+			(at 250.19 113.665 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19458,7 +18281,7 @@
 			)
 		)
 		(property "LCSC" "C28233"
-			(at 249.555 113.665 0)
+			(at 250.19 113.665 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19469,7 +18292,7 @@
 			)
 		)
 		(property "Manufacturer" "Samsung Electro-Mechanics"
-			(at 249.555 113.665 0)
+			(at 250.19 113.665 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19480,7 +18303,7 @@
 			)
 		)
 		(property "Manufacturer Part" "CL21B104KCFNNNE"
-			(at 249.555 113.665 0)
+			(at 250.19 113.665 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19491,7 +18314,7 @@
 			)
 		)
 		(property "Critical Parameter" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19502,7 +18325,7 @@
 			)
 		)
 		(property "IOut1 (A)" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19513,7 +18336,7 @@
 			)
 		)
 		(property "IOut2 (A)" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19524,7 +18347,7 @@
 			)
 		)
 		(property "IOut3 (A)" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19535,7 +18358,7 @@
 			)
 		)
 		(property "L (µH)" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19546,7 +18369,7 @@
 			)
 		)
 		(property "Manufacturer URL" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19557,7 +18380,7 @@
 			)
 		)
 		(property "Match Code" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19568,7 +18391,7 @@
 			)
 		)
 		(property "Mounting Technology" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19579,7 +18402,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19590,7 +18413,7 @@
 			)
 		)
 		(property "Published Date" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19601,7 +18424,7 @@
 			)
 		)
 		(property "Size" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19612,7 +18435,7 @@
 			)
 		)
 		(property "VIN" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19623,7 +18446,7 @@
 			)
 		)
 		(property "VOut1 (V)" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19634,7 +18457,7 @@
 			)
 		)
 		(property "VOut2 (V)" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19645,7 +18468,7 @@
 			)
 		)
 		(property "VOut3 (V)" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19656,7 +18479,7 @@
 			)
 		)
 		(property "VT (V (AC))" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19667,7 +18490,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19678,7 +18501,7 @@
 			)
 		)
 		(property "n" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19689,7 +18512,7 @@
 			)
 		)
 		(property "sym_type" ""
-			(at 249.555 113.665 90)
+			(at 250.19 113.665 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20092,7 +18915,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLCImport:0603WAF7501T5E")
+		(lib_id "JLCImport:FRC0603J912_TS")
 		(at 75.565 132.715 90)
 		(unit 1)
 		(body_style 1)
@@ -20112,8 +18935,8 @@
 				)
 			)
 		)
-		(property "Value" "7.5kΩ"
-			(at 78.581 132.715 0)
+		(property "Value" "9.1kΩ"
+			(at 78.835 132.715 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20122,7 +18945,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:R_0603_C23234"
+		(property "Footprint" "JLCImport:FRC0603J912_TS"
 			(at 75.565 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -20133,7 +18956,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF7501T5E_C23234.pdf"
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2308241947_FOJAN-FRC0603J912-TS_C2907210.pdf"
 			(at 75.565 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -20144,7 +18967,7 @@
 				)
 			)
 		)
-		(property "Description" "-55℃~+155℃ 100mW 7.5kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55℃~+155℃ 100mW 75V 9.1kΩ Thick Film Resistor ±100ppm/℃ ±5% 0603 Chip Resistor - Surface Mount ROHS"
 			(at 75.565 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -20155,7 +18978,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C23234"
+		(property "LCSC" "C2907210"
 			(at 75.565 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -20166,7 +18989,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "FOJAN"
 			(at 75.565 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -20177,227 +19000,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "0603WAF7501T5E"
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" "560112116080"
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut1 (A)" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut2 (A)" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 75.565 132.715 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
+		(property "Manufacturer Part" "FRC0603J912 TS"
 			(at 75.565 132.715 0)
 			(hide yes)
 			(show_name no)
@@ -22206,7 +20809,7 @@
 			)
 		)
 		(property "Value" "3kΩ"
-			(at 96.52 130.016 0)
+			(at 96.52 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23174,7 +21777,7 @@
 		)
 	)
 	(symbol
-		(lib_id "JLCImport:0603WAF1503T5E")
+		(lib_id "JLCImport:0603WAF3303T5E")
 		(at 100.965 135.89 90)
 		(unit 1)
 		(body_style 1)
@@ -23194,8 +21797,8 @@
 				)
 			)
 		)
-		(property "Value" "150kΩ"
-			(at 103.505 135.89 0)
+		(property "Value" "330kΩ"
+			(at 103.981 135.89 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23204,7 +21807,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCImport:R_0603_C22807"
+		(property "Footprint" "JLCImport:0603WAF3303T5E"
 			(at 100.965 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -23215,7 +21818,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1503T5E_C22807.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3303T5E_C23137.pdf"
 			(at 100.965 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -23226,7 +21829,7 @@
 				)
 			)
 		)
-		(property "Description" "-55℃~+155℃ 100mW 150kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55℃~+155℃ 100mW 330kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS"
 			(at 100.965 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -23237,7 +21840,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C22807"
+		(property "LCSC" "C23137"
 			(at 100.965 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -23259,216 +21862,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "0603WAF1503T5E"
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut1 (A)" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut2 (A)" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 100.965 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
+		(property "Manufacturer Part" "0603WAF3303T5E"
 			(at 100.965 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -25575,7 +23969,7 @@
 		)
 	)
 	(symbol
-		(lib_id "MPS:MP8017GL-Z")
+		(lib_id "MPS:TPE15017")
 		(at 102.87 109.22 0)
 		(unit 1)
 		(body_style 1)
@@ -25587,7 +23981,7 @@
 		(fields_autoplaced yes)
 		(uuid "dd8338fe-5903-48f9-8212-fcbd20d6ad6f")
 		(property "Reference" "U2"
-			(at 125.73 99.695 0)
+			(at 125.73 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25596,8 +23990,8 @@
 				)
 			)
 		)
-		(property "Value" "MP8017GL-Z"
-			(at 125.73 102.235 0)
+		(property "Value" "TPE15017"
+			(at 125.73 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25618,7 +24012,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "MP8017GL-Z"
+		(property "Datasheet" "https://static.3peak.com/res/doc/ds/Datasheet_TPE15017_TPE15018.pdf"
 			(at 102.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -25630,7 +24024,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Integrated PoE Frontend & DC/DC controller with FETs"
 			(at 102.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -25652,7 +24046,7 @@
 				)
 			)
 		)
-		(property "MPN" "MP8017GL-Z"
+		(property "MPN" "TPE15017"
 			(at 102.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -25663,7 +24057,7 @@
 				)
 			)
 		)
-		(property "Critical Parameter" ""
+		(property "Manufacturer" "3Peak"
 			(at 102.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -25674,7 +24068,7 @@
 				)
 			)
 		)
-		(property "IOut1 (A)" ""
+		(property "ALTMPN" "MP8017GL-Z"
 			(at 102.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -25685,183 +24079,7 @@
 				)
 			)
 		)
-		(property "IOut2 (A)" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 102.87 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
+		(property "ALT Manufacturer" "Monolithic Power Systems"
 			(at 102.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -27043,215 +25261,6 @@
 			)
 		)
 		(property "MPN" "885012206073"
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Critical Parameter" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut1 (A)" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut2 (A)" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "IOut3 (A)" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "L (µH)" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer URL" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Match Code" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mounting Technology" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Published Date" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Size" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VIN" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut1 (V)" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut2 (V)" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VOut3 (V)" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "VT (V (AC))" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "n" ""
-			(at 160.655 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "sym_type" ""
 			(at 160.655 124.46 0)
 			(hide yes)
 			(show_name no)
