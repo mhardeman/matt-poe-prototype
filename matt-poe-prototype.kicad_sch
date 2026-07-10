@@ -11361,7 +11361,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 26.035 62.865 0)
 			(hide yes)
 			(show_name no)
@@ -12175,7 +12175,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 26.035 56.515 0)
 			(hide yes)
 			(show_name no)
